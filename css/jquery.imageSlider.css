@@ -1,0 +1,25 @@
+/**
+* jquery.imageSlider.css
+*  MIT licensed
+* Copyright (C) 2014 Alexander Duml
+**/
+
+.image-slider-wrapper {
+    position: relative;
+    cursor: col-resize;
+    border: 2px solid black;
+}
+
+.image-slider-wrapper .image-left {
+    z-index: 2;
+    position: relative;
+    overflow: hidden;
+    border-right: 2px solid black;
+}
+
+.image-slider-wrapper .image-right {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

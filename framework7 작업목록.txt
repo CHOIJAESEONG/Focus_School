@@ -1,0 +1,60 @@
+Navbar
+	- NavBar layout
+	- Navbar with Links
+	- Links with icons only
+Dynamic NavBar 
+	- Default
+	- Sliding transition
+	- animateNavBackIcon
+Toolbar
+	- Default
+	- Hide Toolbar Automatically
+	- Bottom Toolbar
+Tabbar
+	- Default
+	- Add badges to icons and Label
+	- Scrollable Tab Bar
+Hide Bars
+	- Default
+Side Panels
+	- Default
+Modals
+	- Alert
+	- confirm
+	- prompt
+	- Login & Password
+	- Preloader
+Popup
+	- default
+ActionSheet
+	- default
+Picker Modals
+	- default
+ProgressBar(progress.php)
+	- iOS(ifrm : progree_ios.php)
+	- Android
+ListView
+	- default
+	- Grouped Lists
+SwipeOut
+	- Swipe To Delete(Default)
+Sortable ListView
+	- default
+Accordian
+	- default
+Cards
+	- Default
+Button
+	- iOS
+	- Android
+	- Floating Action Button
+Calendar / Datepicker
+	- default
+Messages
+	- default
+Notification
+	- default
+Icons
+	- icon sheet 
+
+	

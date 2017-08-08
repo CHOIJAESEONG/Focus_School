@@ -1,0 +1,32 @@
+.navbar {
+  background-image: -webkit-gradient(radial,0% 0%,0px,center center,100%,color-stop(0%,#eb562e),color-stop(50%,#b72f20)) !important;
+  background-image: -o-radial-gradient(0% 0%,circle cover,#eb562e 0%,#b72f20 50%) !important;
+  background-image: radial-gradient(circle at 0% 0%,#eb562e 0%,#b72f20 50%) !important;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{background: transparent !important;}	
+.icon-bar{background-color:#000 !important;}
+.col-sm-3 col-md-2 sidebar {background:#e3ecf5 !important;}
+
+.dropdown [data-toggle="dropdown"]{
+	background-image: -webkit-gradient(radial,0% 0%,0px,center center,100%,color-stop(0%,#eb562e),color-stop(50%,#b72f20)) !important;
+	background-image: -o-radial-gradient(0% 0%,circle cover,#eb562e 0%,#b72f20 50%) !important;
+	background-image: radial-gradient(circle at 0% 0%,#eb562e 0%,#b72f20 50%) !important;
+	box-shadow:0 1px 0 #eb562e inset, 0 -1px 0 #eb562e  inset !important;
+	-webkit-box-shadow:0 1px 0 #eb562e inset, 0 -1px 0 #eb562e  inset !important;
+	-moz-box-shadow:0 1px 0 #eb562e inset, 0 -1px 0 #eb562e  inset !important;
+}
+
+.contents_container{background:#e9e9e9 !important;}
+.active a{background:#eb562e !important; color:white !important;}
+@media (max-width: 768px) {
+  .page-header {
+    text-align:center !important;
+  }
+  
+}
+
+footer{
+	background-image: -webkit-gradient(radial,0% 0%,0px,center center,100%,color-stop(0%,#eb562e),color-stop(50%,#b72f20)) !important;
+  background-image: -o-radial-gradient(0% 0%,circle cover,#eb562e 0%,#b72f20 50%) !important;
+  background-image: radial-gradient(circle at 0% 0%,#eb562e 0%,#b72f20 50%) !important;
+}
